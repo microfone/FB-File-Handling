@@ -1,0 +1,10 @@
+Data-Hora	Nome  Produtor	Código Produtor	Volume (l)	Código de Linha	Linha de coleta	Temperatura (°C)	Crioscopia (°C)	Acidez (pH)	Temper. Aux. (°C)	Amostra	Código Motorista	Nome Motorista	Placa	Compartimento	Latitude	Longitude	Tipo de Identificação	Usuário
+01/12/2014 10:11	VALDIR PEDRO NITSCHE	415320	966	15	linha 15              	8,5	Inativo	Inativo	Inativo	320	10	Henrique        	AYY5406	2	-25,202572	-53,96304	GPS	admin
+01/12/2014 10:38	luiz perez      	418008	1628	18	linha 18              	6,5	Inativo	Inativo	Inativo	8	10	Henrique        	AYY5406	2	-25,217326	-53,9489	GPS	admin
+01/12/2014 11:22	JOSE GONCALVES  	418010	944	18	linha 18              	6,7	Inativo	Inativo	Inativo	10	10	Henrique        	AYY5406	2	-25,29964	-53,93814	GPS	admin
+01/12/2014 11:46	REGES MARINi    	418007	495	18	linha 18              	7,2	Inativo	Inativo	Inativo	7	10	Henrique        	AYY5406	1	-25,28214	-53,937648	GPS	admin
+01/12/2014 12:02	CLAUDIR MARINI  	418006	958	18	linha 18              	6,5	Inativo	Inativo	Inativo	6	10	Henrique        	AYY5406	1	-25,285712	-53,934936	GPS	admin
+01/12/2014 12:21	Desconhecido	418003	1432	18	linha 18              	6,5	Inativo	Inativo	Inativo	3	10	Henrique        	AYY5406	1	-25,294124	-53,923072	GPS	admin
+01/12/2014 12:34	Desconhecido	418005	589	18	linha 18              	5,6	Inativo	Inativo	Inativo	5	10	Henrique        	AYY5406	3	-25,291322	-53,922232	GPS	admin
+01/12/2014 12:59	EDUARDO GUERINI 	418002	1601	18	linha 18              	6,6	Inativo	Inativo	Inativo	2	10	Henrique        	AYY5406	3	-25,274536	-53,939488	GPS	admin
+ 	 	Total Abast. (l)	8613		Média Temp.  (°C)	6,8	 	 	 	 	 	 	 	 	 	 	 	 

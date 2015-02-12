@@ -1,0 +1,45 @@
+Data-Hora	Nome  Produtor	Código Produtor	Volume (l)	Código de Linha	Linha de coleta	Temperatura (°C)	Crioscopia (°C)	Acidez (pH)	Temper. Aux. (°C)	Amostra	Código Motorista	Nome Motorista	Placa	Compartimento	Latitude	Longitude	Tipo de Identificação	Usuário
+01/12/2014  22:09	Desconhecido	0406001         	226,000	06              	linha 06              	8,5	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	3	-24,992994	-54,211736	GPS	admin
+01/12/2014  22:25	Desconhecido	0406013         	264,000	06              	linha 06              	6,3	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	3	-24,990004	-54,233356	GPS	admin
+01/12/2014  22:37	Desconhecido	0406315         	60,000	06              	linha 06              	4,8	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	3	-24,988130	-54,215040	GPS	admin
+01/12/2014  22:45	Desconhecido	0406277         	546,000	06              	linha 06              	4,4	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	3	-24,983838	-54,206892	GPS	admin
+01/12/2014  22:53	Desconhecido	0406043         	169,000	06              	linha 06              	3,5	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-24,983576	-54,201940	Código Manual	admin
+01/12/2014  23:03	Desconhecido	0406215         	375,000	06              	linha 06              	6,5	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-24,994232	-54,191040	GPS	admin
+01/12/2014  23:09	Desconhecido	0406032         	302,000	06              	linha 06              	4,2	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-24,999100	-54,190476	GPS	admin
+01/12/2014  23:14	Desconhecido	0406326         	65,000	06              	linha 06              	5,2	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-24,999438	-54,188996	GPS	admin
+01/12/2014  23:19	Desconhecido	0406203         	109,000	06              	linha 06              	5,0	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-25,000938	-54,188288	GPS	admin
+01/12/2014  23:25	Desconhecido	0406281         	132,000	06              	linha 06              	6,3	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-25,002016	-54,188160	GPS	admin
+01/12/2014  23:32	Desconhecido	0406271         	147,000	06              	linha 06              	4,3	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-25,008894	-54,186496	GPS	admin
+01/12/2014  23:37	Desconhecido	0406198         	204,000	06              	linha 06              	8,0	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-25,009550	-54,187176	GPS	admin
+01/12/2014  23:43	Desconhecido	0406292         	47,000	06              	linha 06              	5,8	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-25,012648	-54,191044	GPS	admin
+01/12/2014  23:49	Desconhecido	0406204         	64,000	06              	linha 06              	4,6	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-25,015218	-54,188992	GPS	admin
+01/12/2014  23:56	Desconhecido	0406270         	162,000	06              	linha 06              	7,3	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-25,012542	-54,186044	GPS	admin
+02/12/2014  00:02	Desconhecido	0406273         	99,000	06              	linha 06              	4,2	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-25,011508	-54,185716	GPS	admin
+02/12/2014  00:09	Desconhecido	0406230         	267,000	06              	linha 06              	4,6	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-25,009924	-54,183520	GPS	admin
+02/12/2014  00:11	Desconhecido	1               	64,000	1               	linha 1               	5,9	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-25,234760	-53,962176	Código Manual	admin
+02/12/2014  00:17	Desconhecido	0406300         	124,000	06              	linha 06              	5,6	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-25,012208	-54,182484	GPS	admin
+02/12/2014  00:23	Desconhecido	0406306         	76,000	06              	linha 06              	4,5	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-25,014976	-54,185228	GPS	admin
+02/12/2014  00:30	Desconhecido	0406188         	46,000	06              	linha 06              	6,3	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-25,015008	-54,175052	GPS	admin
+02/12/2014  00:35	Desconhecido	0406165         	43,000	06              	linha 06              	5,4	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-25,011380	-54,176400	GPS	admin
+02/12/2014  00:42	Desconhecido	0406174         	197,000	06              	linha 06              	5,0	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-25,006554	-54,183068	GPS	admin
+02/12/2014  00:47	Desconhecido	0406166         	135,000	06              	linha 06              	11,7	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-25,005552	-54,182400	GPS	admin
+02/12/2014  00:54	Desconhecido	0406065         	134,000	06              	linha 06              	4,0	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-25,002384	-54,184928	GPS	admin
+02/12/2014  01:00	Desconhecido	0406312         	71,000	06              	linha 06              	4,0	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-24,996896	-54,186556	GPS	admin
+02/12/2014  01:07	Desconhecido	0406296         	134,000	06              	linha 06              	5,3	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-24,993476	-54,189704	GPS	admin
+02/12/2014  01:15	Desconhecido	0406339         	126,000	06              	linha 06              	5,1	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-24,991312	-54,182744	GPS	admin
+02/12/2014  01:22	Desconhecido	0406297         	169,000	06              	linha 06              	4,5	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-24,991822	-54,186240	GPS	admin
+02/12/2014  01:28	Desconhecido	0406228         	200,000	06              	linha 06              	4,3	Inativo	Inativo	Inativo	3	    10	JACKSON         	AUI8830	3	-24,991798	-54,189004	GPS	admin
+02/12/2014  01:34	Paulina         	0406316         	29,000	06              	linha 06              	4,6	Inativo	Inativo	Inativo	3	    10	JACKSON         	AUI8830	3	-24,989152	-54,189884	GPS	admin
+02/12/2014  01:43	Desconhecido	0406278         	178,000	06              	linha 06              	6,1	Inativo	Inativo	Inativo	3	    10	JACKSON         	AUI8830	3	-24,981472	-54,198164	GPS	admin
+02/12/2014  01:51	Desconhecido	0406291         	111,000	06              	linha 06              	5,2	Inativo	Inativo	Inativo	3	    10	JACKSON         	AUI8830	3	-24,972418	-54,201340	GPS	admin
+02/12/2014  02:03	Desconhecido	0406167         	668,000	06              	linha 06              	7,4	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	3	-24,952640	-54,208852	GPS	admin
+02/12/2014  02:15	Desconhecido	0406314         	353,000	06              	linha 06              	5,6	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	3	-24,967252	-54,215592	GPS	admin
+02/12/2014  02:23	Desconhecido	0406330         	251,000	06              	linha 06              	6,5	Inativo	Inativo	Inativo	2	    10	JACKSON         	AUI8830	3	-24,975632	-54,219124	GPS	admin
+02/12/2014  02:30	Desconhecido	0406226         	484,000	06              	linha 06              	3,4	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	3	-24,977766	-54,221468	GPS	admin
+02/12/2014  02:42	Desconhecido	0406319         	1033,000	06              	linha 06              	6,7	Inativo	Inativo	Inativo	3	    10	JACKSON         	AUI8830	3	-24,984966	-54,222488	GPS	admin
+02/12/2014  02:51	Roque Maier     	040341          	346,000	06              	linha 06              	8,3	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	2	-24,986566	-54,224320	GPS	admin
+02/12/2014  02:57	Desconhecido	0406335         	125,000	06              	linha 06              	4,3	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	2	-24,983688	-54,226780	GPS	admin
+02/12/2014  03:12	MARIA PREIS FINGER	0406342         	285,000	06              	linha 06              	7,7	Inativo	Inativo	Inativo	2	    10	JACKSON         	AUI8830	2	-24,994264	-54,208800	GPS	admin
+02/12/2014  03:24	Desconhecido	0406157         	84,000	06              	linha 06              	6,9	Inativo	Inativo	Inativo	2	    10	JACKSON         	AUI8830	2	-25,006650	-54,208828	GPS	admin
+02/12/2014  03:29	Desconhecido	0406003         	320,000	06              	linha 06              	6,5	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	2	-25,007380	-54,209528	GPS	admin
+ 	 	Total Abast. (l)	9024,000		Média Temp.  (°C)	5,7	 	 	 	 	 	 	 	 	 	 	 	 

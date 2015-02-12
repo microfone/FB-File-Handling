@@ -1,0 +1,24 @@
+Data-Hora	Nome  Produtor	Código Produtor	Volume (l)	Código de Linha	Linha de coleta	Temperatura (°C)	Crioscopia (°C)	Acidez (pH)	Temper. Aux. (°C)	Amostra	Código Motorista	Nome Motorista	Placa	Compartimento	Latitude	Longitude	Tipo de Identificação	Usuário
+02/12/2014  00:50	Desconhecido	0415220         	766,000	15              	linha 15              	6,4	Inativo	Inativo	Inativo	2	     1	IVAN            	AOE7061	2	-25,175734	-53,892092	GPS	admin
+02/12/2014  01:23	Desconhecido	0429020         	337,000	29              	linha 29              	6,8	Inativo	Inativo	Inativo	2	     1	IVAN            	AOE7061	2	-25,313330	-54,052748	GPS	admin
+02/12/2014  01:34	ISAIS FACHIN    	0429330         	216,000	29              	linha 29              	7,6	Inativo	Inativo	Inativo	2	     1	IVAN            	AOE7061	2	-25,313662	-54,034684	GPS	admin
+02/12/2014  01:48	Desconhecido	0429325         	615,000	29              	linha 29              	5,5	Inativo	Inativo	Inativo	2	     1	IVAN            	AOE7061	2	-25,322906	-54,019148	GPS	admin
+02/12/2014  01:56	Desconhecido	0429232         	129,000	29              	linha 29              	4,5	Inativo	Inativo	Inativo	2	     1	IVAN            	AOE7061	2	-25,329190	-54,015536	GPS	admin
+02/12/2014  02:07	Desconhecido	0429074         	87,000	29              	linha 29              	6,6	Inativo	Inativo	Inativo	2	     1	IVAN            	AOE7061	2	-25,318416	-54,009552	GPS	admin
+02/12/2014  02:18	Desconhecido	0429322         	320,000	29              	linha 29              	5,5	Inativo	Inativo	Inativo	2	     1	IVAN            	AOE7061	2	-25,339824	-54,000796	GPS	admin
+02/12/2014  02:28	Desconhecido	0429012         	419,000	29              	linha 29              	4,0	Inativo	Inativo	Inativo	1	     1	IVAN            	AOE7061	1	-25,356998	-53,993924	GPS	admin
+02/12/2014  02:35	Desconhecido	0429219         	258,000	29              	linha 29              	5,3	Inativo	Inativo	Inativo	1	     1	IVAN            	AOE7061	1	-25,353092	-53,997608	GPS	admin
+02/12/2014  02:40	Desconhecido	0429315         	231,000	29              	linha 29              	5,3	Inativo	Inativo	Inativo	1	     1	IVAN            	AOE7061	1	-25,350152	-54,000788	GPS	admin
+02/12/2014  02:47	Desconhecido	0429304         	250,000	29              	linha 29              	3,9	Inativo	Inativo	Inativo	3	     1	IVAN            	AOE7061	1	-25,348144	-54,007844	GPS	admin
+02/12/2014  02:55	Desconhecido	0429317         	327,000	29              	linha 29              	6,5	Inativo	Inativo	Inativo	1	     1	IVAN            	AOE7061	1	-25,344906	-54,002428	GPS	admin
+02/12/2014  03:05	Desconhecido	0429187         	100,000	29              	linha 29              	8,0	Inativo	Inativo	Inativo	1	     1	IVAN            	AOE7061	1	-25,364264	-53,994600	GPS	admin
+02/12/2014  03:11	Desconhecido	0429144         	237,000	29              	linha 29              	3,3	Inativo	Inativo	Inativo	1	     1	IVAN            	AOE7061	1	-25,367148	-53,999248	GPS	admin
+02/12/2014  03:23	Desconhecido	0429031         	810,000	29              	linha 29              	6,4	Inativo	Inativo	Inativo	1	     1	IVAN            	AOE7061	1	-25,371782	-54,001904	GPS	admin
+02/12/2014  03:36	Desconhecido	0429015         	366,000	29              	linha 29              	5,2	Inativo	Inativo	Inativo	3	     1	IVAN            	AOE7061	3	-25,373620	-54,016960	GPS	admin
+02/12/2014  03:45	Desconhecido	0429276         	588,000	29              	linha 29              	6,2	Inativo	Inativo	Inativo	3	     1	IVAN            	AOE7061	3	-25,371520	-54,017736	GPS	admin
+02/12/2014  03:57	Desconhecido	0429135         	523,000	29              	linha 29              	7,6	Inativo	Inativo	Inativo	3	     1	IVAN            	AOE7061	3	-25,362522	-54,035688	GPS	admin
+02/12/2014  04:06	Desconhecido	0429060         	423,000	29              	linha 29              	5,9	Inativo	Inativo	Inativo	3	     1	IVAN            	AOE7061	3	-25,355594	-54,040440	GPS	admin
+02/12/2014  04:18	Desconhecido	0429267         	287,000	29              	linha 29              	3,5	Inativo	Inativo	Inativo	3	     1	IVAN            	AOE7061	3	-25,361820	-54,058464	GPS	admin
+02/12/2014  04:29	Desconhecido	0429273         	313,000	29              	linha 29              	5,5	Inativo	Inativo	Inativo	3	     1	IVAN            	AOE7061	3	-25,364052	-54,078768	GPS	admin
+02/12/2014  04:43	Desconhecido	0429009         	343,000	29              	linha 29              	5,7	Inativo	Inativo	Inativo	3	     1	IVAN            	AOE7061	3	0,000000	0,000000	Código Manual	admin
+ 	 	Total Abast. (l)	7945,000		Média Temp.  (°C)	5,7	 	 	 	 	 	 	 	 	 	 	 	 

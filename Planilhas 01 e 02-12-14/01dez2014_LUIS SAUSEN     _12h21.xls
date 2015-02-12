@@ -1,0 +1,24 @@
+Data-Hora	Nome  Produtor	Código Produtor	Volume (l)	Código de Linha	Linha de coleta	Temperatura (°C)	Crioscopia (°C)	Acidez (pH)	Temper. Aux. (°C)	Amostra	Código Motorista	Nome Motorista	Placa	Compartimento	Latitude	Longitude	Tipo de Identificação	Usuário
+01/12/2014  06:46	AVELINO LONGO	0404231         	537,000	04              	04	12,4	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	3	-25,250310	-54,013312	GPS	admin
+01/12/2014  06:56	JOÃO BATISTA ROSSO	0408256         	190,000	08              	08	30,3	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	3	0,000000	0,000000	Código Manual	admin
+01/12/2014  07:08	MAURI ORO       	0408262         	177,000	4               	4               	18,3	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	3	-25,284110	-54,003960	GPS	admin
+01/12/2014  07:16	SALUTE LUIZA  BAZZO	0408246         	89,000	08              	08	3,9	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	3	-25,265136	-54,012312	GPS	admin
+01/12/2014  07:22	VILMAR FRACARO	0408254         	201,000	08              	08	5,0	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	3	-25,259332	-54,016192	GPS	admin
+01/12/2014  07:37	JOAO ANTONIO CASARA	0408180         	583,000	08              	08	7,9	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	3	0,000000	0,000000	Código Manual	admin
+01/12/2014  07:50	JOAQUIN DA SILVA	0408229         	404,000	08              	08	11,7	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	3	0,000000	0,000000	Código Manual	admin
+01/12/2014  08:03	IRME LUIS PERICO	0404031         	654,000	04              	04	5,5	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	3	0,000000	0,000000	Código Manual	admin
+01/12/2014  08:10	ZILMAR SANTO RENOSTO	0408226         	203,000	08              	08	14,5	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	3	0,000000	0,000000	Código Manual	admin
+01/12/2014  08:15	MARIO WELTER	0408178         	567,000	08              	08	7,3	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	3	-25,225598	-54,031236	GPS	admin
+01/12/2014  08:23	LUCIANE PERICO LAMPERTI	0404098         	385,000	04              	04	4,9	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	2	0,000000	0,000000	Código Manual	admin
+01/12/2014  08:40	VALENTIN VANDERLEI MENEGASSO	0404230         	688,000	04              	04	5,6	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	2	0,000000	0,000000	Código Manual	admin
+01/12/2014  08:54	AGENOR ANTONIO BELITZKI	0408132         	573,000	08              	08	6,6	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	2	0,000000	0,000000	Código Manual	admin
+01/12/2014  09:19	Desconhecido	0438142         	330,000	38              	linha 38              	4,9	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	2	-25,274802	-54,107220	GPS	admin
+01/12/2014  09:34	IVANIR ANTONIO REGINATTO	0408036         	1702,000	08              	08	9,4	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	2	0,000000	0,000000	Código Manual	admin
+01/12/2014  09:54	Desconhecido	0438139         	388,000	38              	linha 38              	4,3	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	2	-25,260516	-54,137012	GPS	admin
+01/12/2014  10:10	VALTER PETERLE	0404192         	1567,000	04              	04	5,6	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	1	0,000000	0,000000	Código Manual	admin
+01/12/2014  10:18	Desconhecido	0438140         	328,000	38              	linha 38              	4,9	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	1	0,000000	0,000000	Código Manual	admin
+01/12/2014  10:34	DORVALINO ABATTI	0408154         	0,000	08              	08	12,0	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	1	-25,293900	-54,072924	GPS	admin
+01/12/2014  10:38	DORVALINO ABATTI	0408154         	563,000	08              	08	5,5	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	1	-25,293900	-54,072924	GPS	admin
+01/12/2014  10:55	ANA CLARA PILETTI	0408158         	2450,000	08              	08	5,8	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	4	-25,288876	-54,060836	GPS	admin
+01/12/2014  11:08	ANGELO MAZZOLA	0408191         	1108,000	08              	08	6,0	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	4	-25,275180	-54,053912	GPS	admin
+ 	 	Total Abast. (l)	13687,000		Média Temp.  (°C)	8,7	 	 	 	 	 	 	 	 	 	 	 	 

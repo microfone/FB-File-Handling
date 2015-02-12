@@ -1,0 +1,44 @@
+Data-Hora	Nome  Produtor	Código Produtor	Volume (l)	Código de Linha	Linha de coleta	Temperatura (°C)	Crioscopia (°C)	Acidez (pH)	Temper. Aux. (°C)	Amostra	Código Motorista	Nome Motorista	Placa	Compartimento	Latitude	Longitude	Tipo de Identificação	Usuário
+30/11/2014  18:35	Desconhecido	1               	0,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	1	0,000000	0,000000	Código Manual	admin
+30/11/2014  19:22	Desconhecido	0411105         	176,000	11              	linha 11              	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	3	-25,098268	-54,228028	GPS	admin
+30/11/2014  19:33	Desconhecido	0411136         	476,000	11              	linha 11              	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	3	-25,085776	-54,226960	GPS	admin
+30/11/2014  19:41	Desconhecido	0411104         	257,000	11              	linha 11              	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	3	-25,080184	-54,227384	GPS	admin
+30/11/2014  19:51	Desconhecido	0411103         	305,000	11              	linha 11              	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	3	-25,081920	-54,223032	GPS	admin
+30/11/2014  20:01	Desconhecido	0411201         	510,000	11              	linha 11              	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	3	-25,080416	-54,209496	GPS	admin
+30/11/2014  20:11	Desconhecido	0411072         	605,000	11              	linha 11              	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	3	-25,080570	-54,204332	GPS	admin
+30/11/2014  20:30	Desconhecido	1               	319,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	3	0,000000	0,000000	Código Manual	admin
+30/11/2014  20:39	Desconhecido	1               	427,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	3	0,000000	0,000000	Código Manual	admin
+30/11/2014  20:47	Desconhecido	1               	87,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	3	0,000000	0,000000	Código Manual	admin
+30/11/2014  20:56	Desconhecido	1               	466,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	3	0,000000	0,000000	Código Manual	admin
+30/11/2014  21:07	Desconhecido	1               	487,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	3	0,000000	0,000000	Código Manual	admin
+30/11/2014  21:17	Desconhecido	1               	342,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	3	0,000000	0,000000	Código Manual	admin
+30/11/2014  21:23	Desconhecido	1               	266,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	2	0,000000	0,000000	Código Manual	admin
+30/11/2014  21:29	Desconhecido	1               	305,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	2	0,000000	0,000000	Código Manual	admin
+30/11/2014  21:38	Desconhecido	1               	252,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	2	0,000000	0,000000	Código Manual	admin
+30/11/2014  21:46	Desconhecido	1               	284,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	2	0,000000	0,000000	Código Manual	admin
+30/11/2014  21:53	Desconhecido	1               	767,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	2	0,000000	0,000000	Código Manual	admin
+30/11/2014  22:05	Desconhecido	1               	291,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	2	0,000000	0,000000	Código Manual	admin
+30/11/2014  22:12	Desconhecido	1               	277,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	2	0,000000	0,000000	Código Manual	admin
+30/11/2014  22:16	Desconhecido	1               	215,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	2	0,000000	0,000000	Código Manual	admin
+30/11/2014  22:22	Desconhecido	1               	277,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	2	0,000000	0,000000	Código Manual	admin
+30/11/2014  22:29	Desconhecido	1               	285,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	2	0,000000	0,000000	Código Manual	admin
+30/11/2014  22:36	Desconhecido	1               	490,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	2	0,000000	0,000000	Código Manual	admin
+30/11/2014  22:43	Desconhecido	1               	278,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	1	0,000000	0,000000	Código Manual	admin
+30/11/2014  22:51	Desconhecido	1               	561,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	1	0,000000	0,000000	Código Manual	admin
+30/11/2014  23:00	Desconhecido	1               	224,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	1	0,000000	0,000000	Código Manual	admin
+30/11/2014  23:14	Desconhecido	1               	477,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	1	0,000000	0,000000	Código Manual	admin
+30/11/2014  23:20	Desconhecido	1               	301,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	1	0,000000	0,000000	Código Manual	admin
+30/11/2014  23:28	Desconhecido	1               	407,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	1	0,000000	0,000000	Código Manual	admin
+30/11/2014  23:33	Desconhecido	1               	300,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	1	0,000000	0,000000	Código Manual	admin
+30/11/2014  23:39	Desconhecido	1               	264,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	1	0,000000	0,000000	Código Manual	admin
+30/11/2014  23:51	Desconhecido	1               	543,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	1	0,000000	0,000000	Código Manual	admin
+01/12/2014  00:01	Desconhecido	1               	56,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	1	0,000000	0,000000	Código Manual	admin
+01/12/2014  00:08	Desconhecido	1               	102,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	1	0,000000	0,000000	Código Manual	admin
+01/12/2014  00:17	Desconhecido	1               	315,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	1	0,000000	0,000000	Código Manual	admin
+01/12/2014  00:22	Desconhecido	1               	194,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	1	0,000000	0,000000	Código Manual	admin
+01/12/2014  00:33	Desconhecido	1               	189,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	4	0,000000	0,000000	Código Manual	admin
+01/12/2014  00:40	Desconhecido	1               	130,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	4	0,000000	0,000000	Código Manual	admin
+01/12/2014  00:47	Desconhecido	1               	212,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	4	0,000000	0,000000	Código Manual	admin
+01/12/2014  00:55	Desconhecido	1               	136,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	4	0,000000	0,000000	Código Manual	admin
+01/12/2014  01:05	Desconhecido	1               	268,000	1               	linha 1               	----	Inativo	Inativo	Inativo	1	    11	CLAUDINEI       	AYV8679	4	0,000000	0,000000	Código Manual	admin
+ 	 	Total Abast. (l)	13123,000		Média Temp.  (°C)	0,0	 	 	 	 	 	 	 	 	 	 	 	 

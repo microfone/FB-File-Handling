@@ -1,0 +1,24 @@
+Data-Hora	Nome  Produtor	Código Produtor	Volume (l)	Código de Linha	Linha de coleta	Temperatura (°C)	Crioscopia (°C)	Acidez (pH)	Temper. Aux. (°C)	Amostra	Código Motorista	Nome Motorista	Placa	Compartimento	Latitude	Longitude	Tipo de Identificação	Usuário
+01/12/2014  00:18	Desconhecido	0429009         	431,000	29              	linha 29              	5,9	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	2	-25,374054	-54,057764	GPS	admin
+01/12/2014  00:34	Desconhecido	0429294         	820,000	29              	linha 29              	4,0	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	2	-25,380968	-54,085408	GPS	admin
+01/12/2014  00:48	Desconhecido	0429229         	849,000	29              	linha 29              	6,2	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	2	-25,385506	-54,057080	GPS	admin
+01/12/2014  00:59	Desconhecido	0429319         	349,000	29              	linha 29              	9,6	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	2	-25,400938	-54,062176	GPS	admin
+01/12/2014  01:09	Desconhecido	0429271         	231,000	29              	linha 29              	7,8	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	2	-25,411086	-54,073124	GPS	admin
+01/12/2014  01:21	Desconhecido	0429244         	205,000	29              	linha 29              	3,7	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	2	-25,421874	-54,047988	GPS	admin
+01/12/2014  01:35	Desconhecido	0429257         	620,000	29              	linha 29              	5,8	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	2	-25,417448	-54,079436	GPS	admin
+01/12/2014  01:43	Desconhecido	0429310         	499,000	29              	linha 29              	4,7	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	2	-25,418480	-54,079548	GPS	admin
+01/12/2014  01:44	Desconhecido	0429310         	24,000	29              	linha 29              	5,3	Inativo	Inativo	Inativo	1	    10	Marcio          	ARW8773	1	-25,418480	-54,079548	GPS	admin
+01/12/2014  02:00	ILVO ANTONIO MER	0429253         	293,000	29              	linha 29              	6,5	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	1	-25,434954	-54,083376	GPS	admin
+01/12/2014  02:09	Desconhecido	0429318         	286,000	29              	linha 29              	5,1	Inativo	Inativo	Inativo	1	    10	Marcio          	ARW8773	1	-25,437848	-54,089724	GPS	admin
+01/12/2014  02:16	Desconhecido	0429279         	244,000	29              	linha 29              	4,9	Inativo	Inativo	Inativo	1	    10	Marcio          	ARW8773	1	-25,443170	-54,093016	GPS	admin
+01/12/2014  02:25	Desconhecido	0429287         	517,000	29              	linha 29              	8,0	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	1	-25,444132	-54,103064	GPS	admin
+01/12/2014  02:41	Desconhecido	0429295         	744,000	29              	linha 29              	6,2	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	1	-25,444138	-54,076920	GPS	admin
+01/12/2014  02:55	Desconhecido	0429298         	670,000	29              	linha 29              	4,9	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	1	-25,441550	-54,056124	GPS	admin
+01/12/2014  03:03	CLEDIR JEGGLI GERHARDT	0429332         	241,000	29              	linha 29              	4,9	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	1	-25,431648	-54,049988	GPS	admin
+01/12/2014  03:16	Desconhecido	0429301         	464,000	29              	linha 29              	4,9	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	1	-25,450258	-54,052704	GPS	admin
+01/12/2014  03:23	Desconhecido	0429320         	254,000	29              	linha 29              	5,2	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	3	-25,444874	-54,043932	GPS	admin
+01/12/2014  03:27	Desconhecido	0429277         	212,000	29              	linha 29              	2,6	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	3	-25,444672	-54,043320	GPS	admin
+01/12/2014  03:37	Desconhecido	0429300         	476,000	29              	linha 29              	6,3	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	3	-25,448944	-54,027612	GPS	admin
+01/12/2014  03:44	Desconhecido	0429299         	354,000	29              	linha 29              	6,2	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	3	-25,435326	-54,028420	GPS	admin
+01/12/2014  04:00	Desconhecido	0429217         	291,000	29              	linha 29              	5,5	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	3	-25,430688	-54,033360	GPS	admin
+ 	 	Total Abast. (l)	9074,000		Média Temp.  (°C)	5,6	 	 	 	 	 	 	 	 	 	 	 	 

@@ -1,0 +1,15 @@
+Data-Hora	Nome  Produtor	Código Produtor	Volume (l)	Código de Linha	Linha de coleta	Temperatura (°C)	Crioscopia (°C)	Acidez (pH)	Temper. Aux. (°C)	Amostra	Código Motorista	Nome Motorista	Placa	Compartimento	Latitude	Longitude	Tipo de Identificação	Usuário
+01/12/2014  10:07	Desconhecido	0415283         	204,000	15              	linha 15              	5,9	Inativo	Inativo	Inativo	1	     1	PEROZA          	AWF8242	2	-25,152400	-54,024604	GPS	admin
+01/12/2014  10:14	Desconhecido	0415284         	242,000	15              	linha 15              	8,6	Inativo	Inativo	Inativo	1	     1	PEROZA          	AWF8242	2	-25,151944	-54,028692	GPS	admin
+01/12/2014  10:31	Desconhecido	0415120         	926,000	15              	linha 15              	4,4	Inativo	Inativo	Inativo	1	     1	PEROZA          	AWF8242	2	-25,163228	-54,019928	GPS	admin
+01/12/2014  10:41	ALESSIO DALPOSSO	0415308         	261,000	15              	linha 15              	8,1	Inativo	Inativo	Inativo	1	     1	PEROZA          	AWF8242	2	-25,159214	-54,013212	GPS	admin
+01/12/2014  10:57	Desconhecido	0415273         	469,000	15              	linha 15              	5,1	Inativo	Inativo	Inativo	1	     1	PEROZA          	AWF8242	2	-25,158702	-54,009132	GPS	admin
+01/12/2014  11:13	Desconhecido	0415311         	723,000	15              	linha 15              	7,0	Inativo	Inativo	Inativo	1	     1	PEROZA          	AWF8242	2	-25,158124	-54,002112	GPS	admin
+01/12/2014  11:27	Desconhecido	0415309         	217,000	15              	linha 15              	6,8	Inativo	Inativo	Inativo	1	     1	PEROZA          	AWF8242	2	-25,153392	-54,001004	GPS	admin
+01/12/2014  12:21	Desconhecido	0415276         	3124,000	15              	linha 15              	7,8	Inativo	Inativo	Inativo	1	     1	PEROZA          	AWF8242	2	-25,151564	-54,071552	GPS	admin
+01/12/2014  12:53	Desconhecido	0415001         	266,000	15              	linha 15              	3,9	Inativo	Inativo	Inativo	1	     1	PEROZA          	AWF8242	1	-25,123170	-54,037236	GPS	admin
+01/12/2014  13:29	Desconhecido	0415275         	449,000	15              	linha 15              	3,9	Inativo	Inativo	Inativo	1	     1	PEROZA          	AWF8242	3	-25,117692	-54,006072	GPS	admin
+01/12/2014  13:47	EUGENIO JOSE BETOLDO	0415216         	166,000	15              	linha 15              	6,2	Inativo	Inativo	Inativo	1	     1	PEROZA          	AWF8242	3	-25,138484	-53,981084	GPS	admin
+01/12/2014  13:56	Desconhecido	1               	404,000	15              	linha 15              	6,9	Inativo	Inativo	Inativo	1	     1	PEROZA          	AWF8242	3	-22,029404	-47,882396	Código Manual	admin
+01/12/2014  14:42	Desconhecido	1               	596,000	15              	linha 15              	5,9	Inativo	Inativo	Inativo	1	     1	PEROZA          	AWF8242	1	-22,029404	-47,882396	Código Manual	admin
+ 	 	Total Abast. (l)	8047,000		Média Temp.  (°C)	6,2	 	 	 	 	 	 	 	 	 	 	 	 

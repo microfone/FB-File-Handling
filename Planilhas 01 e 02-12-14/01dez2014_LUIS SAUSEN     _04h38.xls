@@ -1,0 +1,40 @@
+Data-Hora	Nome  Produtor	Código Produtor	Volume (l)	Código de Linha	Linha de coleta	Temperatura (°C)	Crioscopia (°C)	Acidez (pH)	Temper. Aux. (°C)	Amostra	Código Motorista	Nome Motorista	Placa	Compartimento	Latitude	Longitude	Tipo de Identificação	Usuário
+30/11/2014  19:13	vilson          	0406350         	83,000	06              	linha 06              	8,8	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	3	-25,139828	-54,243180	GPS	admin
+30/11/2014  19:24	venceslau       	0406349         	62,000	06              	linha 06              	4,3	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	3	-25,134102	-54,244504	GPS	admin
+30/11/2014  19:34	MARCELO MATTES  	0406345         	291,000	06              	linha 06              	5,4	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	3	-25,137142	-54,250004	GPS	admin
+30/11/2014  19:45	Desconhecido	0406318         	238,000	06              	linha 06              	5,7	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	3	-25,143400	-54,267036	GPS	admin
+30/11/2014  19:53	Desconhecido	0406250         	214,000	06              	linha 06              	6,7	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	3	-25,151348	-54,268432	GPS	admin
+30/11/2014  20:08	Desconhecido	0406057         	431,000	06              	linha 06              	5,2	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	3	-25,151412	-54,298492	GPS	admin
+30/11/2014  20:15	Desconhecido	0406242         	171,000	06              	linha 06              	4,7	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	3	-25,162200	-54,304592	GPS	admin
+30/11/2014  20:22	Desconhecido	0406058         	528,000	06              	linha 06              	11,3	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	3	-25,165284	-54,302108	GPS	admin
+30/11/2014  20:32	Desconhecido	0406035         	228,000	06              	linha 06              	2,5	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	3	-25,167024	-54,301784	GPS	admin
+30/11/2014  20:38	Desconhecido	0406256         	258,000	06              	linha 06              	6,5	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	3	-25,170332	-54,297296	GPS	admin
+30/11/2014  20:45	Desconhecido	0406243         	286,000	06              	linha 06              	5,2	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	3	-25,165326	-54,303528	GPS	admin
+30/11/2014  20:52	Desconhecido	0406269         	99,000	06              	linha 06              	7,4	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	3	-25,169488	-54,309792	GPS	admin
+30/11/2014  20:57	Desconhecido	0406282         	141,000	06              	linha 06              	8,8	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	3	-25,168542	-54,309164	GPS	admin
+30/11/2014  21:05	Desconhecido	0406266         	245,000	06              	linha 06              	6,4	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	3	-25,169912	-54,320788	GPS	admin
+30/11/2014  21:16	Desconhecido	0406247         	526,000	06              	linha 06              	5,2	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	3	-25,189796	-54,327312	GPS	admin
+30/11/2014  21:26	Desconhecido	0406265         	109,000	06              	linha 06              	5,8	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	2	-25,181742	-54,359100	GPS	admin
+30/11/2014  21:38	Desconhecido	0406052         	143,000	06              	linha 06              	5,2	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	2	-25,151962	-54,360088	GPS	admin
+30/11/2014  21:51	Desconhecido	0406102         	1405,000	06              	linha 06              	4,4	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	2	-25,157174	-54,350680	GPS	admin
+30/11/2014  22:12	GEAN CARLOS FOLLMANN	0406344         	345,000	06              	linha 06              	6,8	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	2	-25,127582	-54,359592	GPS	admin
+30/11/2014  22:20	Desconhecido	0406255         	369,000	06              	linha 06              	3,0	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	2	-25,127232	-54,370072	GPS	admin
+30/11/2014  22:27	Desconhecido	0406183         	465,000	06              	linha 06              	7,8	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	2	-25,121438	-54,368920	GPS	admin
+30/11/2014  22:34	Desconhecido	0406272         	524,000	06              	linha 06              	6,7	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	2	-25,116202	-54,365124	GPS	admin
+30/11/2014  22:43	Desconhecido	0406053         	413,000	06              	linha 06              	1,9	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	2	-25,103384	-54,372732	GPS	admin
+30/11/2014  22:53	Desconhecido	0406244         	166,000	06              	linha 06              	8,8	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	1	-25,082590	-54,386988	GPS	admin
+30/11/2014  23:02	OSMAR BECKER    	0406347         	114,000	06              	linha 06              	6,1	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	1	-25,100548	-54,387400	GPS	admin
+30/11/2014  23:08	Desconhecido	0406185         	400,000	06              	linha 06              	6,0	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	1	-25,101844	-54,388948	GPS	admin
+30/11/2014  23:14	Desconhecido	0406254         	223,000	06              	linha 06              	14,3	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	1	-25,101936	-54,379856	GPS	admin
+30/11/2014  23:23	MAYCON PARMIGIANI	0406343         	415,000	06              	linha 06              	5,7	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	1	-25,105684	-54,353616	GPS	admin
+30/11/2014  23:32	Desconhecido	0406260         	536,000	06              	linha 06              	12,3	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	1	-25,110494	-54,359476	GPS	admin
+30/11/2014  23:53	Desconhecido	0406293         	517,000	06              	linha 06              	7,3	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	1	-25,115194	-54,266704	GPS	admin
+01/12/2014  00:02	Desconhecido	0406094         	256,000	06              	linha 06              	4,0	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	1	-25,102168	-54,268916	GPS	admin
+01/12/2014  00:10	Desconhecido	0406135         	135,000	06              	linha 06              	5,8	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	1	-25,106022	-54,262980	GPS	admin
+01/12/2014  00:16	Desconhecido	0411177         	146,000	11              	linha 11              	3,3	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	1	-25,109848	-54,257768	GPS	admin
+01/12/2014  00:24	Desconhecido	0411031         	320,000	11              	linha 11              	5,0	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	1	-25,107810	-54,254160	GPS	admin
+01/12/2014  00:38	Desconhecido	0406151         	275,000	06              	linha 06              	4,1	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	1	-25,076704	-54,234960	GPS	admin
+01/12/2014  00:43	Desconhecido	0406045         	66,000	06              	linha 06              	3,6	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	1	-25,079030	-54,235300	GPS	admin
+01/12/2014  00:51	Desconhecido	0406024         	496,000	06              	linha 06              	6,4	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	4	-25,086530	-54,239628	GPS	admin
+01/12/2014  01:01	Luiz Carlos     	0411006         	567,000	11              	linha 11              	5,0	Inativo	Inativo	Inativo	1	    10	LUIS SAUSEN     	AYV2930	4	-25,087388	-54,230504	GPS	admin
+ 	 	Total Abast. (l)	12206,000		Média Temp.  (°C)	6,1	 	 	 	 	 	 	 	 	 	 	 	 

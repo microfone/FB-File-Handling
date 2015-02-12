@@ -1,0 +1,20 @@
+Data-Hora	Nome  Produtor	Código Produtor	Volume (l)	Código de Linha	Linha de coleta	Temperatura (°C)	Crioscopia (°C)	Acidez (pH)	Temper. Aux. (°C)	Amostra	Código Motorista	Nome Motorista	Placa	Compartimento	Latitude	Longitude	Tipo de Identificação	Usuário
+01/12/2005  04:13	Desconhecido	0429182         	876,000	29              	linha 29              	6,6	Inativo	Inativo	Inativo	2	     1	IVAN            	AOE7061	2	-25,312486	-54,050280	GPS	admin
+01/12/2005  04:25	Desconhecido	0429024         	280,000	29              	linha 29              	7,2	Inativo	Inativo	Inativo	2	     1	IVAN            	AOE7061	2	0,000000	0,000000	Código Manual	admin
+01/12/2005  04:35	Desconhecido	0429020         	329,000	29              	linha 29              	6,5	Inativo	Inativo	Inativo	2	     1	IVAN            	AOE7061	2	-25,313330	-54,052748	GPS	admin
+01/12/2005  04:46	ISAIS FACHIN    	0429330         	222,000	29              	linha 29              	8,1	Inativo	Inativo	Inativo	2	     1	IVAN            	AOE7061	2	-25,313662	-54,034684	GPS	admin
+01/12/2005  04:59	Desconhecido	0429289         	459,000	29              	linha 29              	7,1	Inativo	Inativo	Inativo	2	     1	IVAN            	AOE7061	2	-25,348044	-54,044524	GPS	admin
+01/12/2005  05:12	Desconhecido	0429135         	533,000	29              	linha 29              	7,1	Inativo	Inativo	Inativo	2	     1	IVAN            	AOE7061	2	-25,362522	-54,035688	GPS	admin
+01/12/2005  05:30	Desconhecido	0429011         	828,000	29              	linha 29              	3,9	Inativo	Inativo	Inativo	1	     1	IVAN            	AOE7061	1	-25,382440	-54,034036	GPS	admin
+01/12/2005  05:43	Desconhecido	0429233         	917,000	29              	linha 29              	6,5	Inativo	Inativo	Inativo	1	     1	IVAN            	AOE7061	1	-25,375420	-54,043308	GPS	admin
+01/12/2005  05:50	Desconhecido	0429311         	277,000	29              	linha 29              	6,2	Inativo	Inativo	Inativo	1	     1	IVAN            	AOE7061	1	-25,378734	-54,043432	GPS	admin
+01/12/2005  06:03	Desconhecido	0429211         	402,000	29              	linha 29              	6,7	Inativo	Inativo	Inativo	1	     1	IVAN            	AOE7061	1	-25,385332	-54,072640	GPS	admin
+01/12/2005  06:11	Desconhecido	0429010         	356,000	29              	linha 29              	6,9	Inativo	Inativo	Inativo	1	     1	IVAN            	AOE7061	1	-25,390372	-54,075808	GPS	admin
+01/12/2005  06:18	Desconhecido	0429313         	340,000	29              	linha 29              	2,1	Inativo	Inativo	Inativo	1	     1	IVAN            	AOE7061	1	-25,394808	-54,072588	GPS	admin
+01/12/2005  06:31	Desconhecido	0429309         	572,000	29              	linha 29              	11,1	Inativo	Inativo	Inativo	3	     1	IVAN            	AOE7061	3	-25,397308	-54,083528	GPS	admin
+01/12/2005  06:45	Desconhecido	0429308         	725,000	29              	linha 29              	10,5	Inativo	Inativo	Inativo	3	     1	IVAN            	AOE7061	3	-25,407894	-54,105340	GPS	admin
+01/12/2005  06:55	Desconhecido	0429202         	551,000	29              	linha 29              	8,3	Inativo	Inativo	Inativo	3	     1	IVAN            	AOE7061	3	-25,413082	-54,117580	GPS	admin
+01/12/2005  07:03	Desconhecido	0429251         	566,000	29              	linha 29              	8,4	Inativo	Inativo	Inativo	3	     1	IVAN            	AOE7061	3	-25,414352	-54,121784	GPS	admin
+01/12/2005  07:16	Desconhecido	0429033         	536,000	29              	linha 29              	10,9	Inativo	Inativo	Inativo	3	     1	IVAN            	AOE7061	3	-25,428212	-54,100552	GPS	admin
+01/12/2005  07:20	Desconhecido	0429033         	229,000	29              	linha 29              	11,0	Inativo	Inativo	Inativo	3	     1	IVAN            	AOE7061	3	-25,428212	-54,100552	GPS	admin
+ 	 	Total Abast. (l)	8998,000		Média Temp.  (°C)	7,5	 	 	 	 	 	 	 	 	 	 	 	 

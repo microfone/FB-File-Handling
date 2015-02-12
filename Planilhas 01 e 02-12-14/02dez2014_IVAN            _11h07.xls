@@ -1,0 +1,11 @@
+Data-Hora	Nome  Produtor	Código Produtor	Volume (l)	Código de Linha	Linha de coleta	Temperatura (°C)	Crioscopia (°C)	Acidez (pH)	Temper. Aux. (°C)	Amostra	Código Motorista	Nome Motorista	Placa	Compartimento	Latitude	Longitude	Tipo de Identificação	Usuário
+02/12/2014  08:20	Desconhecido	0415127         	351,000	15              	linha 15              	11,4	Inativo	Inativo	Inativo	2	     1	IVAN            	AOE7061	2	-25,182226	-53,929024	GPS	admin
+02/12/2014  08:38	Desconhecido	0415220         	642,000	15              	linha 15              	9,4	Inativo	Inativo	Inativo	2	     1	IVAN            	AOE7061	2	-25,175734	-53,892092	Código Manual	admin
+02/12/2014  08:46	Desconhecido	0415220         	251,000	15              	linha 15              	8,9	Inativo	Inativo	Inativo	2	     1	IVAN            	AOE7061	2	-25,175734	-53,892092	Código Manual	admin
+02/12/2014  09:14	Desconhecido	0415310         	901,000	15              	linha 15              	11,1	Inativo	Inativo	Inativo	2	     1	IVAN            	AOE7061	2	-25,195828	-53,893488	GPS	admin
+02/12/2014  09:37	Desconhecido	0415139         	487,000	15              	linha 15              	14,5	Inativo	Inativo	Inativo	1	     1	IVAN            	AOE7061	1	-25,172708	-53,971736	GPS	admin
+02/12/2014  09:55	Desconhecido	0415274         	763,000	15              	linha 15              	6,6	Inativo	Inativo	Inativo	1	     1	IVAN            	AOE7061	1	-25,117578	-53,969312	GPS	admin
+02/12/2014  10:11	LUIZ PERTUN     	0415313         	1072,000	15              	linha 15              	6,2	Inativo	Inativo	Inativo	1	     1	IVAN            	AOE7061	1	-25,116482	-53,968624	GPS	admin
+02/12/2014  10:33	Desconhecido	0415301         	1001,000	15              	linha 15              	4,7	Inativo	Inativo	Inativo	2	     1	IVAN            	AOE7061	2	-25,108098	-53,975008	GPS	admin
+02/12/2014  10:52	Desconhecido	0415277         	1505,000	15              	linha 15              	6,4	Inativo	Inativo	Inativo	3	     1	IVAN            	AOE7061	3	-25,112522	-53,962844	GPS	admin
+ 	 	Total Abast. (l)	6973,000		Média Temp.  (°C)	8,8	 	 	 	 	 	 	 	 	 	 	 	 

@@ -1,0 +1,36 @@
+Data-Hora	Nome  Produtor	Código Produtor	Volume (l)	Código de Linha	Linha de coleta	Temperatura (°C)	Crioscopia (°C)	Acidez (pH)	Temper. Aux. (°C)	Amostra	Código Motorista	Nome Motorista	Placa	Compartimento	Latitude	Longitude	Tipo de Identificação	Usuário
+01/12/2014  07:10	augustinhoback  	139             	252,000	13              	13              	8,6	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	3	-25,344002	-54,262636	GPS	admin
+01/12/2014  07:27	luis carlos     	138             	421,000	13              	13              	14,1	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	3	-25,341594	-54,265236	GPS	admin
+01/12/2014  07:47	solei perico    	141             	34,000	13              	13              	10,2	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	3	-25,322024	-54,325348	GPS	admin
+01/12/2014  08:00	OTILIA DA ROCHA 	0413142         	0,000	13              	13              	14,7	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	3	0,000000	0,000000	Código Manual	admin
+01/12/2014  08:16	derivaldo de oli	117             	268,000	13              	13              	7,1	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	3	-25,361834	-54,300836	GPS	admin
+01/12/2014  08:27	claudio ghellere	136             	181,000	13              	13              	8,6	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	3	-25,378980	-54,301692	GPS	admin
+01/12/2014  08:47	eloi jose weber 	21              	509,000	03              	linha 03              	10,5	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	3	-25,402726	-54,355832	GPS	admin
+01/12/2014  08:55	Desconhecido	0403022         	101,000	03              	linha 03              	4,4	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	0,000000	0,000000	Código Manual	admin
+01/12/2014  09:08	suzana de lurdes	57              	239,000	03              	linha 03              	13,4	Inativo	Inativo	Inativo	11	    10	JACKSON         	AUI8830	1	-25,390514	-54,382272	GPS	admin
+01/12/2014  09:23	wiverso jose    	59              	222,000	03              	linha 03              	5,2	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-25,426326	-54,374792	GPS	admin
+01/12/2014  09:46	jair zanella    	58              	130,000	03              	linha 03              	33,2	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-25,421086	-54,401392	GPS	admin
+01/12/2014  09:58	adelar maximiano	45              	93,000	03              	linha 03              	7,9	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-25,433876	-54,432060	GPS	admin
+01/12/2014  10:09	cleomar marcomim	65              	125,000	03              	linha 03              	8,1	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-25,419784	-54,464404	GPS	admin
+01/12/2014  10:25	heitor ney      	28              	889,000	03              	linha 03              	6,5	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-25,392752	-54,446104	GPS	admin
+01/12/2014  10:51	claucidio franci	53              	178,000	03              	linha 03              	5,6	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-25,436362	-54,484128	GPS	admin
+01/12/2014  11:00	nilson stabellin	12              	428,000	03              	linha 03              	6,9	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-25,441626	-54,489608	GPS	admin
+01/12/2014  11:37	roberval rebecch	54              	306,000	03              	linha 03              	6,3	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-25,510480	-54,485304	GPS	admin
+01/12/2014  12:23	moacir romagna  	003             	862,000	03              	linha 03              	6,4	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	2	-25,532406	-54,416664	GPS	admin
+01/12/2014  12:34	antonio destro  	29              	88,000	03              	linha 03              	5,6	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-25,512008	-54,412040	GPS	admin
+01/12/2014  12:43	underley viel   	25              	128,000	03              	linha 03              	4,2	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	1	-25,519798	-54,396256	GPS	admin
+01/12/2014  12:50	edson scarmagnan	66              	213,000	03              	linha 03              	5,4	Inativo	Inativo	Inativo	11	    10	JACKSON         	AUI8830	3	-25,525600	-54,398652	GPS	admin
+01/12/2014  13:10	angelo antono   	05              	464,000	03              	linha 03              	4,4	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	3	-25,505290	-54,434780	GPS	admin
+01/12/2014  13:35	neide nandi     	47              	122,000	03              	linha 03              	7,9	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	3	-25,460530	-54,435780	GPS	admin
+01/12/2014  13:51	ademir nandi    	64              	341,000	03              	linha 03              	6,3	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	3	-25,448658	-54,389204	GPS	admin
+01/12/2014  14:02	antono joventino	07              	102,000	03              	linha 03              	5,5	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	2	-25,434420	-54,372912	GPS	admin
+01/12/2014  14:17	adilson cardoso 	50              	883,000	03              	linha 03              	10,7	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	2	-25,409166	-54,346688	GPS	admin
+01/12/2014  14:45	joao pereira de 	87              	707,000	13              	13              	5,9	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	2	-25,330328	-54,235980	GPS	admin
+01/12/2014  14:51	zelfira tramonti	126             	49,000	13              	13              	4,4	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	2	-25,326404	-54,233476	GPS	admin
+01/12/2014  15:05	1               	0413999         	379,000	13              	13              	6,5	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	2	0,000000	0,000000	Código Manual	admin
+01/12/2014  15:24	edith amboni    	84              	157,000	13              	13              	19,7	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	2	-25,344974	-54,209088	GPS	admin
+01/12/2014  15:32	luza catarina   	239             	153,000	08              	08	7,5	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	2	-25,346114	-54,204776	GPS	admin
+01/12/2014  15:39	JOLMIR BRANDÃO	0408234         	80,000	08              	08	5,2	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	2	0,000000	0,000000	Código Manual	admin
+01/12/2014  15:48	Jones dall agnol	261             	255,000	08              	08	7,2	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	2	-25,336006	-54,194928	GPS	admin
+01/12/2014  15:54	augustinho dall 	260             	168,000	08              	08	4,2	Inativo	Inativo	Inativo	1	    10	JACKSON         	AUI8830	2	0,000000	0,000000	Código Manual	admin
+ 	 	Total Abast. (l)	9527,000		Média Temp.  (°C)	8,5	 	 	 	 	 	 	 	 	 	 	 	 

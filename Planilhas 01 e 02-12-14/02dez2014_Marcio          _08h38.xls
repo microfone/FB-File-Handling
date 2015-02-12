@@ -1,0 +1,24 @@
+Data-Hora	Nome  Produtor	Código Produtor	Volume (l)	Código de Linha	Linha de coleta	Temperatura (°C)	Crioscopia (°C)	Acidez (pH)	Temper. Aux. (°C)	Amostra	Código Motorista	Nome Motorista	Placa	Compartimento	Latitude	Longitude	Tipo de Identificação	Usuário
+02/12/2014  01:48	Desconhecido	0415306         	640,000	15              	linha 15              	4,7	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	2	-25,151886	-53,880068	GPS	admin
+02/12/2014  02:03	Desconhecido	0415304         	1016,000	15              	linha 15              	6,4	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	2	-25,168282	-53,867712	GPS	admin
+02/12/2014  02:44	Desconhecido	0415305         	977,000	15              	linha 15              	3,7	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	2	-24,968188	-54,017664	GPS	admin
+02/12/2014  02:58	Desconhecido	0415285         	99,000	15              	linha 15              	3,1	Inativo	Inativo	Inativo	22	    10	Marcio          	ARW8773	2	-24,959356	-54,087596	GPS	admin
+02/12/2014  03:03	Desconhecido	0415286         	62,000	15              	linha 15              	2,8	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	2	-24,963156	-54,089364	GPS	admin
+02/12/2014  03:09	Desconhecido	0415287         	41,000	15              	linha 15              	3,1	Inativo	Inativo	Inativo	22	    10	Marcio          	ARW8773	2	-24,963762	-54,090612	GPS	admin
+02/12/2014  03:14	Desconhecido	0415288         	40,000	15              	linha 15              	3,2	Inativo	Inativo	Inativo	22	    10	Marcio          	ARW8773	2	-24,970228	-54,089692	GPS	admin
+02/12/2014  03:19	Desconhecido	0415230         	89,000	15              	linha 15              	3,3	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	2	-24,978170	-54,095004	GPS	admin
+02/12/2014  03:36	Desconhecido	0415223         	250,000	15              	linha 15              	3,3	Inativo	Inativo	Inativo	22	    10	Marcio          	ARW8773	2	-25,002872	-54,111928	GPS	admin
+02/12/2014  03:54	Desconhecido	0415291         	410,000	15              	linha 15              	5,6	Inativo	Inativo	Inativo	22	    10	Marcio          	ARW8773	2	-24,997508	-54,124204	GPS	admin
+02/12/2014  04:08	Desconhecido	0415292         	112,000	15              	linha 15              	5,5	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	2	-24,990788	-54,117312	GPS	admin
+02/12/2014  04:21	RENI ARMANDO CALLEGARO	0415317         	241,000	15              	linha 15              	0,6	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	2	-24,972130	-54,105260	GPS	admin
+02/12/2014  04:24	RENI ARMANDO CALLEGARO	0415317         	206,000	15              	linha 15              	0,4	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	1	-24,972130	-54,105260	GPS	admin
+02/12/2014  04:36	Desconhecido	0415294         	536,000	15              	linha 15              	4,7	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	1	-24,962544	-54,108824	GPS	admin
+02/12/2014  04:50	Desconhecido	0415307         	155,000	15              	linha 15              	4,8	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	1	-24,969998	-54,123652	GPS	admin
+02/12/2014  05:10	Desconhecido	0415295         	482,000	15              	linha 15              	6,9	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	1	-24,958292	-54,141268	GPS	admin
+02/12/2014  05:17	Desconhecido	0415299         	200,000	15              	linha 15              	5,5	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	1	-24,954962	-54,136332	GPS	admin
+02/12/2014  05:48	LUIZ ROSSO      	0415318         	311,000	15              	linha 15              	10,3	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	1	-24,950640	-54,031540	GPS	admin
+02/12/2014  06:20	Desconhecido	0415202         	1108,000	15              	linha 15              	5,3	Inativo	Inativo	Inativo	1	    10	Marcio          	ARW8773	1	-25,003972	-53,903432	GPS	admin
+02/12/2014  06:30	Desconhecido	0415202         	1555,000	15              	linha 15              	5,6	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	3	-25,003972	-53,903432	GPS	admin
+02/12/2014  07:12	Desconhecido	0415225         	1001,000	15              	linha 15              	10,8	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	1	-25,095766	-53,803812	GPS	admin
+02/12/2014  07:18	Desconhecido	0415225         	415,000	15              	linha 15              	14,5	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	3	-25,095766	-53,803812	GPS	admin
+ 	 	Total Abast. (l)	9946,000		Média Temp.  (°C)	5,2	 	 	 	 	 	 	 	 	 	 	 	 

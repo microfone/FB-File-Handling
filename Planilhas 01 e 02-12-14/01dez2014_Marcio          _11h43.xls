@@ -1,0 +1,13 @@
+Data-Hora	Nome  Produtor	Código Produtor	Volume (l)	Código de Linha	Linha de coleta	Temperatura (°C)	Crioscopia (°C)	Acidez (pH)	Temper. Aux. (°C)	Amostra	Código Motorista	Nome Motorista	Placa	Compartimento	Latitude	Longitude	Tipo de Identificação	Usuário
+01/12/2014  07:08	Desconhecido	0415260         	660,000	15              	linha 15              	11,1	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	2	-25,226898	-53,967224	GPS	admin
+01/12/2014  07:38	LUCINEI ROSSI   	0429329         	1141,000	29              	linha 29              	11,3	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	2	-25,335230	-53,975620	GPS	admin
+01/12/2014  07:48	Desconhecido	0429261         	632,000	29              	linha 29              	9,8	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	2	-25,338610	-53,965224	GPS	admin
+01/12/2014  08:02	MARINES ANA BORTOLANZA CRODA	0429331         	493,000	29              	linha 29              	14,8	Inativo	Inativo	Inativo	22	    10	Marcio          	ARW8773	1	-25,337522	-53,939668	GPS	admin
+01/12/2014  08:25	Desconhecido	0429144         	756,000	29              	linha 29              	5,3	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	1	-25,367046	-53,999208	GPS	admin
+01/12/2014  09:02	Desconhecido	0429326         	1554,000	29              	linha 29              	4,3	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	2	-25,365848	-54,112268	GPS	admin
+01/12/2014  09:24	Desconhecido	0429218         	2494,000	29              	linha 29              	5,9	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	1	-25,374092	-54,108960	GPS	admin
+01/12/2014  09:39	Desconhecido	0429258         	430,000	29              	linha 29              	6,4	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	3	-25,383020	-54,093944	GPS	admin
+01/12/2014  09:47	Desconhecido	0429270         	536,000	29              	linha 29              	7,5	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	3	-25,382298	-54,092664	GPS	admin
+01/12/2014  10:00	Desconhecido	0429268         	374,000	29              	linha 29              	9,6	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	3	-25,377582	-54,078496	GPS	admin
+01/12/2014  10:24	Nilceu jose peri	0429334         	376,000	29              	linha 29              	6,4	Inativo	Inativo	Inativo	2	    10	Marcio          	ARW8773	3	-25,321952	-54,043000	GPS	admin
+ 	 	Total Abast. (l)	9446,000		Média Temp.  (°C)	8,4	 	 	 	 	 	 	 	 	 	 	 	 
